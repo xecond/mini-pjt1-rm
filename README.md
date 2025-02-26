@@ -64,7 +64,12 @@
   
 
   ## 주요 기능
+  
 
   ## 팀원
-  [@ohhyungsuh](https://github.com/ohhyungsuh)
   
+  | **오형서** | **신예빈** | **조영상** | **김희선** |
+     | :------: |  :------: | :------: | :------: |
+     | [<img src="https://avatars.githubusercontent.com/u/43169705?v=4" height=150 width=150> <br/> @ohhyungsuh](https://github.com/ohhyungsuh) | [<img src="https://avatars.githubusercontent.com/u/91859242?v=4" height=150 width=150> <br/> @ShinYEB](https://github.com/ShinYEB) | [<img src="https://avatars.githubusercontent.com/u/51320595?v=4" height=150 width=150> <br/> @0ssang](https://github.com/0ssang) | [<img src="https://avatars.githubusercontent.com/u/87031358?v=4" height=150 width=150> <br/> @xecond](https://github.com/xecond) |
+
+
